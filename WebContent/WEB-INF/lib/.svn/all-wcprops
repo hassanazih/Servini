@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/82/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib
+END
+commons-beanutils-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/82/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar
+END
+javax.servlet.jsp.jstl-api-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/66/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar
+END
+javax.el-2.2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/66/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/javax.el-2.2.4.jar
+END
+javax.faces-2.1.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/66/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/javax.faces-2.1.14.jar
+END
+primefaces-bootstrap-1.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/66/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/primefaces-bootstrap-1.0.8.jar
+END
+hibernate-validator-4.3.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/79/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/hibernate-validator-4.3.0.Final.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/79/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/commons-logging-1.1.jar
+END
+slf4j-api-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/79/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/slf4j-api-1.6.4.jar
+END
+javax.servlet.jsp.jstl-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/66/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar
+END
+primefaces-3.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/66/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/primefaces-3.4.jar
+END
+validation-api-1.0.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/79/trunk/Promo2013ZZ3F2/practice1/jsfSkeleton/WebContent/WEB-INF/lib/validation-api-1.0.0.GA.jar
+END
